@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1791569667 source:d:\c++ projects\smartparkingsystem\smartparkingsystem\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<queue>
+	<fstream>
+	<sstream>
+	<ctime>
+	<iomanip>
+	<limits>
+
